@@ -197,7 +197,7 @@ h4>#score{
     flex-direction: column;
     height: 200px;
     width: 80vw;
-    z-index: 7;
+    z-index: 1;
     opacity: 1;
 }
 
